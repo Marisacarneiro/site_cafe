@@ -1,0 +1,140 @@
+* {
+	margin: 5px;
+	padding: 5px;
+}
+
+
+body {
+	margin:0;
+	padding:0;
+	background-color: #EEEEEE;
+}
+
+nav.menu {
+	width: 100%;
+	position;fixed;
+	background-color: #FFFFFF;
+	font-family: sans-serif;
+}
+
+nav.menu ul {
+	list-style-type:none;
+	padding:0;
+	width:100%;
+	text-align: center;
+	
+}
+
+nav.menu ul li {
+	padding:15%;
+	display:inline;
+	
+}
+
+nav.menu ul a {
+	text-decoration:none;
+	color: #36000E;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+
+#primeiro {
+	background-color:#006400;
+	width:100%;
+	height:490px;
+}
+
+#choco {
+	background-image: url("cafeteria.jpg");
+	width:1300px;
+	height:470px;
+	
+}
+
+#miolo {
+	background-color:#B22222;
+	width:100%;
+	height:415px;
+	text-align: left;
+	
+}
+
+#leite {
+	background-image: url("cafe.jpg");
+	width:500px;
+	height: 390px;
+	float:left;
+	border-radius: 50%;
+}
+
+#texto {
+	display: block;
+	float: left;
+	margin: justify;
+	text-indent: 100px;
+	width:500px;
+	height:15px;
+	font-family: arial;
+	font-size: 17px;
+}
+
+
+
+
+.caixas {
+	background-color: #1E90FF;
+	padding: 50px ;
+	margin: 50px;
+	width: 450px;
+	height: 450px;
+	display: block;
+	float:left;
+}
+
+.caixas1 {
+	background-image: url("starbucks.png");
+	width:300px;
+	height: 300px;
+	float:left;
+}
+
+.caixas2 {
+	background-image: url("donuts.jpg");
+	width:300px;
+	height: 300px;
+	float:left;
+}
+
+.caixas3 {
+	background-image: url("grao.jpg");
+	width:300px;
+	height: 300px;
+	float:left;
+}
+
+
+.caixas4 {
+	background-image: url("frans.jpg");
+	width:300px;
+	height: 300px;
+	float:left;
+}
+
+
+
+
+footer {
+	float: left;
+	text-align: center;
+	font-family: arial;
+	font-size: 20px;
+	
+}
+
+
+
+
+
+
+
+
